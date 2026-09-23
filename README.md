@@ -7,6 +7,10 @@ order management, and adds a separate **Python/FastAPI AI service** for
 semantic product search, product recommendations, and review sentiment
 analysis.
 
+<p align="center">
+  <img src="./public/shopsense-workflow.png" alt="ShopSense End-to-End Workflow" width="100%">
+</p>
+
 The project is designed as a two-part application:
 
 -   **Next.js application** --- storefront, admin panel, authentication,
